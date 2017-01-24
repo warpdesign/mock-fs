@@ -1,5 +1,7 @@
 # `mock-fs`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tschaub/mock-fs.svg)](https://greenkeeper.io/)
+
 The `mock-fs` module allows Node's built-in [`fs` module](http://nodejs.org/api/fs.html) to be backed temporarily by an in-memory, mock file system.  This lets you run tests against a set of mock files and directories instead of lugging around a bunch of test fixtures.
 
 ## Example
